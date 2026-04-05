@@ -31,9 +31,10 @@ The goal of this project was to create a clean and intuitive user interface for 
    npm install
    
 2. Run the development server:
-npm run dev
+   ```bash
+   npm run dev
 
-3. Open in browser:
+4. Open in browser:
 http://localhost:5173
 
 ## Notes
